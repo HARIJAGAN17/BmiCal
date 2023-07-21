@@ -19,7 +19,7 @@ class BottomButton extends StatelessWidget {
             style: TextStyle(fontSize: 30.0, fontWeight: FontWeight.w900),
           ),
         ),
-        color: Colors.pink,
+        color: Colors.orangeAccent,
         margin: EdgeInsets.only(top: 20.0),
         height: bottomContainerHeight,
         width: double.infinity,
